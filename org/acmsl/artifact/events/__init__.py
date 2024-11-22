@@ -1,8 +1,8 @@
 # vim: set fileencoding=utf-8
 """
-org/acmsl/artifact/licdata/__init__.py
+org/acmsl/artifact/events/__init__.py
 
-This file ensures org.acmsl.artifact.licdata is a package.
+This file ensures org.acmsl.artifact.events is a package.
 
 Copyright (C) 2024-today acm-sl's Licdata Artifact Events
 

@@ -1,6 +1,6 @@
 # vim: set fileencoding=utf-8
 """
-org/acmsl/licdata/artifact/events/docker_image_requested.py
+org/acmsl/artifact/events/licdata/docker_image_requested.py
 
 This file declares the DockerImageRequested event.
 

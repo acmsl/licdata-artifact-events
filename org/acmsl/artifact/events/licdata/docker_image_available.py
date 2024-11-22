@@ -1,6 +1,6 @@
 # vim: set fileencoding=utf-8
 """
-org/acmsl/licdata/artifact/events/docker_image_available.py
+org/acmsl/artifact/events/licdata/docker_image_available.py
 
 This file declares the DockerImageAvailable event.
 
